@@ -1,0 +1,8 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+  "exception-reporting":
+    userId: "9655465d-e4da-0207-f6b9-8ea43afda3b1"
+  "tester-go": {}
+  welcome:
+    showOnStartup: false
