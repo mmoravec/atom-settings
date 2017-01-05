@@ -1,10 +1,19 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "6373f643-8e2a-4800-9499-3efeb5c522b4"
   core:
     telemetryConsent: "limited"
   "exception-reporting":
     userId: "9655465d-e4da-0207-f6b9-8ea43afda3b1"
   "go-plus":
     currentPanelHeight: "21.797884841363103vh"
+  "linter-eslint":
+    useGlobalEslint: true
   "tester-go": {}
   welcome:
     showOnStartup: false
+".go.source":
+  "q log":
+    body: "q.Q($1)"
+    prefix: "qq"
